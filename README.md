@@ -86,7 +86,7 @@ To visualize the tradeoff between the True Positive Rate and the False Positive 
 Our model achieved an **Area Under the Curve (AUC) of 0.713**.
 *   **What this means:** The AUC value represents the probability that the model will rank a randomly chosen positive instance (a churner) higher than a randomly chosen negative instance (a non-churner). An AUC of 0.713 indicates that our model has a fair-to-good ability to successfully separate and distinguish between the two classes, performing significantly better than a random guess (which would yield an AUC of 0.5).
 *   <img width="691" height="545" alt="AUC" src="https://github.com/user-attachments/assets/8022e4f3-ad14-4adc-b657-024c4c5be0db" />
-              AUC Curve Image
+     AUC Curve Image
 
 6.Decision Threshold Sensitivity Analysis
 
