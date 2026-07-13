@@ -1,4 +1,7 @@
 # Capstone-Project-part-2
+Scenario
+With a clean dataset in hand, you must now produce two predictive models: one for regression (predicting a continuous output) and one for binary classification. You must preprocess the data correctly to avoid data leakage, handle class imbalance where applicable, and evaluate both models rigorously
+
 Supervised Machine Learning Model — Build, Train, and Evaluate
 
 With a cleaned dataset in hand, I produced two predictive models: one for regression (predicting a continuous output) and one for binary classification. I preprocessed the data correctly to avoid data leakage, handle class imbalance where applicable, and evaluate both models rigorously.
